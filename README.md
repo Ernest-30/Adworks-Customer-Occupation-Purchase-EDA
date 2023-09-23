@@ -8,6 +8,4 @@ Dataset [Adworks](https://drive.google.com/drive/folders/155_Wt1mWl9hOKiC0d4RqIg
 
 SQL Analysis [Code](https://github.com/Ernest-30/Adworks-Customer-Occupation-Purchase-EDA/blob/main/Analysis%20of%20Customer%20Occupation.sql)
 
-Excel Visualizations [Charts](https://github.com/Ernest-30/Adworks-Customer-Occupation-Purchase-EDA/blob/main/AdWorks_Customer%20Occupation%20Visualizations.xlsx)
-
 Complete Project [Project](https://github.com/Ernest-30/Adworks-Customer-Occupation-Purchase-EDA/blob/main/Exploring%20Customer%20Occupation%20Purchase%20Patterns%20at%20Adventure%20Works.pdf)
